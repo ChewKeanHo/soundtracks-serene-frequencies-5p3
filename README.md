@@ -11,11 +11,11 @@ Here is another attempt for a peaceful and calming auras soundtrack.
 ```
 #electronicmusic #soundtrack #chillwave #instrumental #ambient
 
-  File: Audios/Serene-Frequencies-5-point-3.mp3
+  File: Audios/05_Serene-Frequencies-5p3.mp3
   Size: 5916672         Blocks: 11560      IO Block: 4096   regular file
-Access: 2025-11-01 15:14:24.745569162 +0800
-Modify: 2025-11-01 15:14:32.337600925 +0800
-Change: 2025-11-01 15:14:32.337600925 +0800
+Access: 2025-11-18 12:56:17.038597755 +0800
+Modify: 2025-11-02 18:26:39.469658142 +0800
+Change: 2025-11-18 12:56:35.778685021 +0800
  Birth: 2025-07-20 11:53:40.278234077 +0800
 
 On Published Date: 2025-05-03
@@ -35,6 +35,7 @@ On YouTube since : 2025-06-15
 * [Agreed UDIO Privacy Policy](.internals/privacy-policy/Udio-Privacy-Policy.pdf)
 * [Agreed Vizzy Terms of Service](.internals/terms-of-services/Vizzy-Terms-of-Service.pdf)
 * [Agreed Vizzy Privacy Policy](.internals/privacy-policy/Vizzy-Privacy-Policy.pdf)
+* [20251030 UDIO Severances](https://github.com/ChewKeanHo/press-20251030-severances-from-udio)
 
 
 
@@ -55,11 +56,15 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : Serene Frequencies 5.3
-Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-serene-frequencies-5p3
-License: (Holloway) Chew, Kean Ho's Proprietary License
-Procure: Coming Soon
+Title: Serene Frequencies 5.3
+Creators: (Holloway) Chew, Kean Ho + UDIO
+Contact: hello@hollowaykeanho.com
+SKU: chewkeanho-soundtracks-serene-frequencies-5p3
+License: (Holloway) Chew, Kean Ho's Proprietary License (https://doi.org/10.5281/zenodo.13767361)
+Made On: 2025-10-29 (before 2025-10-30 terms of service changes)
+Made From: https://www.udio.com/
+Video made in: https://vizzy.io/
+Procure: https://github.com/ChewKeanHo/soundtracks-serene-frequencies-5p3
 --------------------------------------------------------------------------------
 ```
 
